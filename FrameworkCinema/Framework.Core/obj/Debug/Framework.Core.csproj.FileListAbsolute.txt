@@ -1,0 +1,17 @@
+C:\Users\yigit\source\repos\Framework\Framework.Core\bin\Debug\Framework.Core.dll
+C:\Users\yigit\source\repos\Framework\Framework.Core\bin\Debug\Framework.Core.pdb
+C:\Users\yigit\source\repos\Framework\Framework.Core\obj\Debug\Framework.Core.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Framework\Framework.Core\obj\Debug\Framework.Core.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Framework\Framework.Core\obj\Debug\Framework.Core.dll
+C:\Users\yigit\source\repos\Framework\Framework.Core\obj\Debug\Framework.Core.pdb
+C:\Users\MERT\Desktop\FrameworkCinema\Framework.Core\bin\Debug\Framework.Core.dll
+C:\Users\MERT\Desktop\FrameworkCinema\Framework.Core\bin\Debug\Framework.Core.pdb
+C:\Users\MERT\Desktop\FrameworkCinema\Framework.Core\obj\Debug\Framework.Core.csproj.CoreCompileInputs.cache
+C:\Users\MERT\Desktop\FrameworkCinema\Framework.Core\obj\Debug\Framework.Core.dll
+C:\Users\MERT\Desktop\FrameworkCinema\Framework.Core\obj\Debug\Framework.Core.pdb
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\bin\Debug\Framework.Core.dll
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\bin\Debug\Framework.Core.pdb
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\obj\Debug\Framework.Core.csprojAssemblyReference.cache
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\obj\Debug\Framework.Core.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\obj\Debug\Framework.Core.dll
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\obj\Debug\Framework.Core.pdb

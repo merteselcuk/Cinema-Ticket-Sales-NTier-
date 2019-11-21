@@ -1,0 +1,17 @@
+C:\Users\MERT\Desktop\FrameworkCinema\Framework.Core\bin\Release\Framework.Core.dll
+C:\Users\MERT\Desktop\FrameworkCinema\Framework.Core\bin\Release\Framework.Core.pdb
+C:\Users\MERT\Desktop\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.csproj.CoreCompileInputs.cache
+C:\Users\MERT\Desktop\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.dll
+C:\Users\MERT\Desktop\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.pdb
+C:\Users\derya\Downloads\CinemaNTier.V3\FrameworkCinema\Framework.Core\bin\Release\Framework.Core.dll
+C:\Users\derya\Downloads\CinemaNTier.V3\FrameworkCinema\Framework.Core\bin\Release\Framework.Core.pdb
+C:\Users\derya\Downloads\CinemaNTier.V3\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.csprojAssemblyReference.cache
+C:\Users\derya\Downloads\CinemaNTier.V3\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.csproj.CoreCompileInputs.cache
+C:\Users\derya\Downloads\CinemaNTier.V3\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.dll
+C:\Users\derya\Downloads\CinemaNTier.V3\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.pdb
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\bin\Release\Framework.Core.dll
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\bin\Release\Framework.Core.pdb
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.dll
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.pdb
+C:\Users\yigit\Desktop\FrameworkCinema\Framework.Core\obj\Release\Framework.Core.csprojAssemblyReference.cache

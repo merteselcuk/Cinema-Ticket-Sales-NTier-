@@ -1,0 +1,7 @@
+C:\Users\yigit\Desktop\CinemaNTier\DLLs\References.dll
+C:\Users\yigit\Desktop\CinemaNTier\DLLs\References.pdb
+C:\Users\yigit\Desktop\FrameworkCinema\References\obj\Debug\References.csprojAssemblyReference.cache
+C:\Users\yigit\Desktop\FrameworkCinema\References\obj\Debug\References.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\FrameworkCinema\References\obj\Debug\References.csproj.CopyComplete
+C:\Users\yigit\Desktop\FrameworkCinema\References\obj\Debug\References.dll
+C:\Users\yigit\Desktop\FrameworkCinema\References\obj\Debug\References.pdb
